@@ -1,7 +1,3 @@
----
-output:
-  html_document: default
----
 # Homework 1 submission
 
 Hey, all! This is my attempt at making a page with markdown while explaining a bit about myself, my roots and background :)
