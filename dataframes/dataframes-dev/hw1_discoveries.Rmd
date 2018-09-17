@@ -1,0 +1,33 @@
+---
+title: "Hw1 Part 2"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### I have chosen to work with discoveries data from datasets package.
+
+
+```{r eval=FALSE}
+require(graphics)
+```
+
+```{r}
+length(discoveries)
+summary(discoveries)
+str(discoveries)
+```
+
+## Some Plots
+
+```{r}
+plot(discoveries, ylab = "Number of important discoveries",
+     las = 1)
+title(main = "discoveries data set")
+```
+
+```{r}
+hist(discoveries)
+```
