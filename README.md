@@ -28,28 +28,31 @@ Hey, all! This is my attempt at making a page with markdown while explaining a b
 - [ ] Finish HW1 in STAT
 - [ ] Finish the Machine Learning homework :sad:
 - [ ] Cook for Tuesday's lunch!
-- [ ] Go out for beers with friends :happy: 
+- [ ] Go out for beers with friends :bowtie:  
 - [ ] Discuss project with my supervisor
 - [ ] Stop making lists I never follow :smirk:
 
 ##### I also want to learn how to code in [Ruby](https://www.ruby-lang.org/en/). Here is what Ruby looks like:
 
 ```
-puts 'Hello, world!'
+def say_hello(name)
+   return “Hello, ” + name
+end
+puts say_hello('World')
 ```
 
 ##### Finally, here is a collection of photos I have taken this summer. 
-![Glasgow](images/glasgow_streetart.JPG)
 
 ###### This is in Glasgow. People there love to drink. This man is, in my opinion, drunk: his nose is red from the cold and the alcohol. Also, I find that he looks a little like a young hipster Robin Williams. Captured on 28th of August 2018.
-![London](images/london.JPG)
+![Glasgow](images/glasgow_streetart.JPG)
 
 ###### The (very wet) traffic sign for pedestrians in London. It has two modes: wait and cross with care. You'd expect it would be just wait and cross, but I think the city hall is aware a lot of people (drivers and pedestrians alike) can't really get their head around the "opposite" driving in the UK, hence the extra care :smile: I find it pretty funny.
+![London](images/london.JPG)
+
+###### This is me (blue dress) and my albanian friends just outside Barcelona on the 9th of August 2018. That's the best day of this summer for me.
 ![Friends](images/the_albanian_gang.JPG)
 
-###### This is me (blue dress) and my albanian friends just outside Barcelona on the 9th of August 2018. That's the best day of this summer for me. 
-
-###Thanks for bearing with me people. I hope this was not too boring :smirk: .
+### Thanks for bearing with me people. I hope this was not too boring :smirk: .
 
 For testing purposes:
 
