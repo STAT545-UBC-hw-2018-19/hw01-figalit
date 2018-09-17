@@ -16,7 +16,7 @@ Hey, all! This is my attempt at making a page with markdown while explaining a b
 ![Image of Yaktocat](images/map.png)
 
 ##### I studied Computer Engineering at [Bilkent University](http://w3.bilkent.edu.tr/bilkent/) in Turkey, and only recently graduated. Here is a picture of me in my graduation gown:
-![Graduation Photo](images/graduation.jpg)
+![Graduation Photo](images/graduation.jpg =100x20)
 
 ##### And this summer I was in Switzerland, working for [Google](https://www.google.com/) as an intern in their Zurich office. To me, Zurich is heaven on Earth. Just have a look at this picture I took when I went to the Rigi mountain with my parents. 
 ![Rigi](images/rigi_swissmtn.JPG)
@@ -53,11 +53,3 @@ puts say_hello('World')
 ![Friends](images/the_albanian_gang.JPG)
 
 ### Thanks for bearing with me people. I hope this was not too boring :smirk: .
-
-For testing purposes:
-
-|    **Item**    | **Status** |
-|----------------|------------|
-| Finished-ness  | :thumbsup: |
-| Happiness      | :bowtie:   |
-| Markdowny-ness | :octocat:  |
